@@ -101,6 +101,10 @@ The Newsletter Management volunteer role is expected to require approximately 2-
 
 # 📚 Data Quality Resources
 
+Below are data resources either created or curated by DQC community members. If you would like to be included, please fill out the request form below:
+
+[**Request Form**](https://forms.gle/fckotVjikV7NAbUL8)
+
 <details>
 <summary>Newsletters & Blogs</summary>
 <br>
