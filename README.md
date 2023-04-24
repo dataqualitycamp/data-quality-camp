@@ -1,13 +1,12 @@
 # 👋 Welcome to Data Quality Camp
+![](/media_assets/DQC_Logo_Transparent.png)
+
 This repo serves as documentation for the Data Quality Camp Slack group (dataquality.camp/slack) operations and respurces.
 
 # 📋 Directory
-- Community Guidelines
-- Volunteer Operations
-- Resources
-    - Newsletters
-    - Podcasts
-    - YouTube
+- [Community Guidelines](https://github.com/dataqualitycamp/data-quality-camp#%EF%B8%8F-community-guidelines)
+- [Volunteer Operations](https://github.com/dataqualitycamp/data-quality-camp#%EF%B8%8F-volunteer-operations)
+- [Data Quality Resources](https://github.com/dataqualitycamp/data-quality-camp#%EF%B8%8F-volunteer-operations)
 
 # ⚖️ Community Guidelines
 # ⚙️ Volunteer Operations
