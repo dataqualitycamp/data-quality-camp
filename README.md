@@ -102,16 +102,35 @@ The Newsletter Management volunteer role is expected to require approximately 2-
 # 📚 Data Quality Resources
 
 <details>
-<summary>Newsletters</summary>
+<summary>Newsletters & Blogs</summary>
 <br>
+
+- [Data Quality Camp Newsletter](https://dataqualitycamp.substack.com/)
+- [Data Products](https://dataproducts.substack.com/)
+- [Seattle Data Guy's Newsletter](https://seattledataguy.substack.com/)
+- [Scaling DataOps Newsletter](https://scalingdataops.substack.com/)
+- [Data Engineering Central](https://dataengineeringcentral.substack.com/)
+- [SwirlAI Newsletter](https://www.newsletter.swirlai.com/)
+- [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
+- [Data Patterns](https://ergestx.substack.com/)
+
 </details>
 
 <details>
 <summary>Podcasts</summary>
 <br>
+
+- [Catalog and Cocktails](https://data.world/resources/podcasts/)
+- [Analytics Engineering](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
+- [Data Mesh Radio](https://daappod.com/data-mesh-radio/)
+
 </details>
 
 <details>
 <summary>YouTube</summary>
 <br>
+
+- [Ternary Data](https://www.youtube.com/c/TernaryData)
+- [Seattle Data Guy](https://www.youtube.com/@SeattleDataGuy)
+
 </details>
