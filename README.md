@@ -117,6 +117,7 @@ Below are data resources either created or curated by DQC community members. If 
 - [SwirlAI Newsletter](https://www.newsletter.swirlai.com/)
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
 - [Data Patterns](https://ergestx.substack.com/)
+- [Dutch Engineer's Newsletter](https://newsletter.dutchengineer.org/)
 
 </details>
 
@@ -127,6 +128,7 @@ Below are data resources either created or curated by DQC community members. If 
 - [Catalog and Cocktails](https://data.world/resources/podcasts/)
 - [Analytics Engineering](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
 - [Data Mesh Radio](https://daappod.com/data-mesh-radio/)
+- [Ask a Data Mentor Podcast](https://podcasters.spotify.com/pod/show/ask-a-data-mentor)
 
 </details>
 
