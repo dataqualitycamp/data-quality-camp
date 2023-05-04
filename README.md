@@ -99,6 +99,30 @@ The Newsletter Management volunteer role is expected to require approximately 2-
 
 </details>
 
+<details>
+<summary>Volunteer Lead</summary>
+<br>
+
+**Job Description:**
+
+As a Volunteer Lead for Data Quality Camp, you will be responsible for recruiting and onboarding new volunteers to join our volunteer team. You will work closely with DQC leadership to setup interested volunteers for success via onboarding and support. Your role will also involve assigning tasks to volunteers, monitoring their progress, and ensuring that they have the support they need to be successful in their roles.
+
+**Responsibilities:**
+
+- Recruit and onboard new volunteers to join the Data Quality Camp volunteer team
+- Work with the leadership team to identify volunteer opportunities and develop job descriptions for each role
+- Assign tasks to volunteers and monitor their progress
+- Provide support and guidance to volunteers as needed
+- Manage the volunteer Google sheet and ensure accurate records
+- Coordinate volunteer meetings and events as necessary
+- Manage volunteer communications and ensure that volunteers are informed about relevant news and updates
+
+**Expected Time Commitment:**
+
+The time commitment for the volunteer manager role will vary depending on the number of volunteers and the current needs of the organization. However, we expect that volunteers will need to commit a minimum of 3 hours per week to this role. This may include time spent recruiting and onboarding new volunteers, assigning tasks, monitoring progress, and coordinating meetings and events.
+
+</details>
+
 # 📚 Data Quality Resources
 
 Below are data resources either created or curated by DQC community members. If you would like to be included, please fill out the request form below:
