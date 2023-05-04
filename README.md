@@ -142,6 +142,7 @@ Below are data resources either created or curated by DQC community members. If 
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
 - [Data Patterns](https://ergestx.substack.com/)
 - [Dutch Engineer's Newsletter](https://newsletter.dutchengineer.org/)
+- [The Data Platform Journal](https://thedataplatform.substack.com/)
 
 </details>
 
@@ -153,6 +154,7 @@ Below are data resources either created or curated by DQC community members. If 
 - [Analytics Engineering](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
 - [Data Mesh Radio](https://daappod.com/data-mesh-radio/)
 - [Ask a Data Mentor Podcast](https://podcasters.spotify.com/pod/show/ask-a-data-mentor)
+- [AgileData Podcast](https://agiledata.io/agiledata-podcast/)
 
 </details>
 
